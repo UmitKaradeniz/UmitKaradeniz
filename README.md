@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ümit</h1>
-<h3 align="center">A student, a developer, and a passionate problem solver from Turkey..</h3>
+<h3 align="center">A student, a developer, and a passionate problem solver from Turkey.</h3>
 
 - 📫 How to reach me **dkaradenzi12@gmail.com**
 
